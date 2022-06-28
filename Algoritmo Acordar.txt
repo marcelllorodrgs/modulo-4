@@ -1,0 +1,20 @@
+*******************************************************************
+
+Algoritmo em portugol da hora de acordar.
+
+*******************************************************************
+
+INICIO
+	1. Abrir os olhos;
+	2. Levantar da cama;
+	3. Calçar os chinelos;
+	4. Caminhar até a porta;
+	5. Se a porta estiver fechada;
+		1. Girar a maçaneta 180 graus;
+		2. Empurar a porta;
+	6. Caminhar até o banheiro;
+	7. Ir até a pia;
+	8. Colocar a mão na torneira e girar sentido anti-horário;
+	9. Lavar o rosto. 
+	12. Seguir em frente para próximas atividades do dia.
+FIM
